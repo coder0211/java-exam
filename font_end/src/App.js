@@ -7,7 +7,6 @@ function App() {
   const [nhanViens, setNhanViens] = useState([]);
   const [onAddModal, setOnAddModal] = useState(false);
   const [onDeleteModal, setOnDeleteModal] = useState(false);
-  const [onUpdateModal, setOnUpdateModal] = useState(false);
   const [maNV, setMaNV] = useState("");
   const [tenNV, setTenNV] = useState("");
   const [phai, setPhai] = useState("");
